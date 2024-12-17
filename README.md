@@ -1,6 +1,6 @@
 # Evaluating Linear Pyramid Pooling: A Novel Approach for Legal Case Retrieval
 
-This repository contains all the code for preprocessing case law text files, training and evaluating a custom **Bi-LSTM Cross-Encoder** model, and generating result graphs for **COLIEE Task 1 (2024)**.
+This repository contains all the code for preprocessing case law text files, training and evaluating a custom **Bi-LSTM Cross-Encoder** model, and generating result graphs
 
 ## Table of Contents
 
