@@ -177,8 +177,7 @@ Ensure file paths and directories are updated to match your local setup.
 ## Contact
 
 For questions or issues, please contact:  
-**[Sean Fletcher]**  
-**[sean.fletcher@maine.edu]**  
+
 
 ---
 
